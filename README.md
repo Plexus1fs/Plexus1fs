@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Plexus
-- 👀 I’m interested in programming, pentesting and boxing.
+- 👀 I’m interested in programming, pentesting.
 - 🌱 I’m currently learning js and python.
 - 💞️ I’m looking to collaborate on any discord related projects.
 - 📫 How to reach me dm plexus#1808
